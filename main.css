@@ -21,7 +21,7 @@ header{
 }
 
 header nav{
-    background-color: rgb(247, 7, 187);
+    background-color: rgb(253, 253, 253);
     /* Elementos flexibles */
     display: flex;
     /* Alinear a la derecha */
@@ -72,13 +72,13 @@ nav .nav-right-section img{
 /*Main*/
 
 main {
-    background-color: rgb(92, 12, 92);
+    background-color: rgb(252, 250, 252);
     margin-top: 150px;
     text-align: center;
 }
 
 main .main-logo {
-    background-color: rgb(224, 27, 93);
+    background-color: rgb(252, 249, 250);
     width: 350px;
     margin: 0 auto;
     margin-bottom: 40px;
